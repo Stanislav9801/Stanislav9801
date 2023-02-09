@@ -1,4 +1,4 @@
-## Hi, I'm Stanislav 👋
+### Hi, I'm Stanislav 👋
 I'm passionate about solving real business problems using data-driven approach. I am curious about data mining, designing machine learning models and building neural network architectures. I usually participate in machine learning competitions on platforms such as [Kaggle](https://www.kaggle.com/), [MachineHack](https://machinehack.com/), etc.  
 
 # Bio
